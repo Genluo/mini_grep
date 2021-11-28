@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "hello-rust"
+name = "mini_grep"
 version = "0.1.0"
